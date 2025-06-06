@@ -1,14 +1,11 @@
-![alt text](93715393-a0315b00-fb86-11ea-9e59-8cb610b76318.png)
-
 # Face Mask Detection
 
 ## 🧠 Overview
 
-This project utilizes Convolutional Neural Networks (CNNs) to classify images and video frames into three categories:
+This project utilizes Convolutional Neural Networks (CNNs) to classify images and video frames into two categories:
 
 - **Mask**
 - **No Mask**
-- **Incorrect Mask**
 
 The model is trained on a custom dataset and can be deployed for real-time face mask detection in various applications.
 
